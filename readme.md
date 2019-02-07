@@ -1,7 +1,7 @@
 # Manage Task Lists Using Flutter
     Task Management User Specific 
 
-![Wllcome](https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png)
+![Wllcome](https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png =250x250)
 
 ### Prerequisites
 - 1.install nodejs v8.13.0
