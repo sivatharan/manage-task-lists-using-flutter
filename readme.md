@@ -3,19 +3,12 @@
 - Email: sivatharan.uop@gmail.com
 - Date: 12/28/2018
    
- Manage the task user specific 
+ Manage the task user specific
 
-![Wllcome](https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png  =100x20)
-![](./Images/pic1s.png =250x)
-
-### Sample Screenshot
-
-
-##Prerequisites
+## Prerequisites
 - 1.install nodejs v8.13.0
 - 2.install mysql
 - 3.install flutter v1.0
-
 
 ## Getting Started
 - download project form git and go to project directory
@@ -24,3 +17,7 @@
 - install nodemon => `npm i nodemon -g`
 - install dependencies => `npm i`
 - run the project => `npm start`
+
+
+## Sample Screenshot
+![](https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png)
