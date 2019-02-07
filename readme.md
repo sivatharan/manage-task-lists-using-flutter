@@ -17,6 +17,10 @@
 - 2.install mysql
 - 3.install flutter v1.0
 
+## Prerequisites
+- 1.install nodejs v8.13.0
+- 2.install mysql
+- 3.install flutter v1.
 
 ## Getting Started
 - download project form git and go to project directory
