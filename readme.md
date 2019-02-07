@@ -1,10 +1,8 @@
-# Slider
-- Author: Sivatharan Arulanantham
-- Email: sivatharan.uop@gmail.com
-- Date: 12/28/2018
-
 # Manage Task Lists Using Flutter
     Task Management User Specific 
+    - Author: Sivatharan Arulanantham
+    - Email: sivatharan.uop@gmail.com
+    - Date: 12/28/2018
 
 ![Wllcome](https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png  {width=40px height=400px})
 
