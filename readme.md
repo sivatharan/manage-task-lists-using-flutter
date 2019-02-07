@@ -1,10 +1,10 @@
 # Manage Task Lists Using Flutter
     Task Management User Specific 
 
-![Wllcome](https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png  {width=40px height=400px})
+![Wllcome](https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png  {width=400px height=700px})
 
 ### Sample Screenshot
-<a href="url"><img src="https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png" align="left" height="100" width="400" ></a>
 
 <a href="url"><img src="https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png" align="left" height="48" width="48" ></a>
 
