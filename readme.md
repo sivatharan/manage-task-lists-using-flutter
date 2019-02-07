@@ -1,17 +1,10 @@
 # Manage Task Lists Using Flutter
     Task Management User Specific 
 
-![Wllcome](https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png  {width=400px height=700px})
-
 ### Sample Screenshot
-<a href="url"><img src="https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png" align="left" height="240" width="100" ></a>
-
-<a href="url"><img src="https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png" align="left" height="48" width="48" ></a>
-
-<a href="url"><img src="https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png" align="left" height="48" width="48" ></a>
+![Wllcome](https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png)
 
 
- <br />
 ## Prerequisites
 - 1.install nodejs v8.13.0
 - 2.install mysql
