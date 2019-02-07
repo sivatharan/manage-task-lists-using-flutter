@@ -4,7 +4,7 @@
 ![Wllcome](https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png  {width=400px height=700px})
 
 ### Sample Screenshot
-<a href="url"><img src="https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png" align="left" height="200" width="80" ></a>
+<a href="url"><img src="https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png" align="left" height="240" width="100" ></a>
 
 <a href="url"><img src="https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png" align="left" height="48" width="48" ></a>
 
