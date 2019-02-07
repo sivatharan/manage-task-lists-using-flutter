@@ -1,9 +1,9 @@
 # Manage Task Lists Using Flutter
 - Author: Sivatharan Arulanantham
-  - Email: sivatharan.uop@gmail.com
-   - Date: 12/28/2018
-    Task Management User Specific 
-    
+- Email: sivatharan.uop@gmail.com
+- Date: 12/28/2018
+   
+ Manage the task user specific 
 
 ![Wllcome](https://github.com/sivatharan/manage-task-lists-using-flutter/blob/master/Images/1.png  =100x20)
 
